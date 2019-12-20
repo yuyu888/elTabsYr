@@ -139,7 +139,7 @@
       </div>
   </template>
   <script>
-  import ElTabsYr from '@/components/Mfw/elTabsYr.vue'
+  import ElTabsYr from '@/components/elTabsYr.vue'
   
   export default {
     name: 'Test',
