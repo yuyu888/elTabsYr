@@ -1,7 +1,7 @@
 ## 概要
 该组件使用vue 基于element-ui编写，提供了一种tabs切换样式，并且配置灵活 可自行配置灵活组合使用
 
-##引用范例
+## 引用范例
   ```javascript
     <el-tabs-yr v-if="statusTabs"
       :tabs="statusTabs" 
